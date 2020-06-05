@@ -1,7 +1,6 @@
 # wololo
 Wololo bot for Age of Empires 2
 
-Wololo Bot:
 **!elo** - To show 1v1 RM Elo
 
 **!tgelo** - To show Team RM Elo
