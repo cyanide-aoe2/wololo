@@ -17,7 +17,7 @@ Wololo bot for Age of Empires 2
   
 Example: !assoc https://steamcommunity.com/id/yourprofile
 
-**!assoc <AoE2.netProfileURL>** - Link your Discord profile with your AoE2.net ID. Mainly for people who have the Microsoft Store version of the game.
+**!assoc \<AoE2.netProfileURL\>** - Link your Discord profile with your AoE2.net ID. Mainly for people who have the Microsoft Store version of the game.
 
 Example: !assoc https://aoe2.net/#profile-100
 
