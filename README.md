@@ -14,7 +14,7 @@ Wololo bot for Age of Empires 2
 **aoe2de://\<gameid\>** - Displays game lobby info and join link
   
 **!assoc \<SteamProfileURL\>** - Link your Discord profile with your Steam ID.
-  
+
 Example: !assoc https://steamcommunity.com/id/yourprofile
 
 **!assoc \<AoE2.netProfileURL\>** - Link your Discord profile with your AoE2.net ID. Mainly for people who have the Microsoft Store version of the game.
@@ -24,6 +24,10 @@ Example: !assoc https://aoe2.net/#profile-100
 **!assoc** - To remove association with your Steam and/or AoE2.net ID
 
 To check by username, type: **!elo \<username\>**, **!tgelo \<username\>**, **!unrelo \<username\>**, **!match \<username\>**
+
+**!ignore** - To make the bot ignore your messages.
+
+**!unignore** - To make the bot stop ignoring your messages.
 
 Administration Commands - Only for Server Owners
 
