@@ -39,4 +39,4 @@ Administration Commands - Only for Server Owners
 
 Stats provided by **aoe2.net**, bot created by **cyanide**.
 
-Source will be uploaded soon. Issues can be reported here in the meanwhile.
+Our privacy policy: https://github.com/cyanide-aoe2/wololo/blob/master/privacy_policy.md
